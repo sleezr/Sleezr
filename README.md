@@ -159,6 +159,8 @@ docs/
 | Website | https://www.sleezr.com |
 | Documentation | https://docs.sleezr.com |
 | Alternatives hub | https://www.sleezr.com/en/alternatives |
-| This repo | https://github.com/sleezr/app |
+| SwitchHosts alternative | https://www.sleezr.com/en/blog/sleezr-vs-switchhosts |
+| Gas Mask alternatives | https://www.sleezr.com/en/blog/gas-mask-alternatives |
+| This repo | https://github.com/sleezr/Sleezr |
 
 **Last updated:** 2026-08-12

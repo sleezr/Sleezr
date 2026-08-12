@@ -1,6 +1,6 @@
 # Proprietary software notice
 
-Copyright (c) Sleezr / m-code-official.
+Copyright (c) Sleezr.
 
 Sleezr is a commercial desktop application. This repository contains public documentation, guides, and comparison content for the Sleezr product. It does **not** include application source code.
 
