@@ -18,7 +18,7 @@ Open source. Windows, macOS, Linux. Profiles and remote hosts sources.
 
 ### 2. Sleezr — maintained Gas Mask-style workflow
 
-Desktop app for Windows, macOS, and Linux. Named environments, automatic DNS flush, backups on apply. One-time purchase after a 3-day trial.
+Desktop app for Windows, macOS, and Linux. Named environments, automatic DNS flush, backups on apply. One-time purchase from €9.99.
 
 **Best if:** you want Gas Mask’s job without abandoned-app risk, especially across OSes.
 

@@ -8,7 +8,7 @@ Last updated: 2026-08-12
 
 | Feature | SwitchHosts | Sleezr |
 | --- | --- | --- |
-| Price | Free (open source) | €4.99 Solo one-time (3-day trial) |
+| Price | Free (open source) | €9.99 Solo one-time |
 | Platforms | Windows, macOS, Linux | Windows, macOS, Linux |
 | Environments | Profiles | Named environments |
 | Automatic DNS flush | Manual | Yes |

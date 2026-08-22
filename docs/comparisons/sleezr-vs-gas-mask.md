@@ -9,7 +9,7 @@ Last updated: 2026-08-12
 | Feature | Gas Mask | Sleezr |
 | --- | --- | --- |
 | Platforms | macOS only | Windows, macOS, Linux |
-| Price | Free | One-time (€4.99 Solo) |
+| Price | Free | One-time (€9.99 Solo) |
 | Maintained for modern macOS | No (legacy) | Yes |
 | Environments | Profiles | Named environments |
 | Automatic DNS flush | Manual | Yes |

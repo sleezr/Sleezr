@@ -8,7 +8,7 @@ Last updated: 2026-08-12
 
 | Feature | Terminal / Notepad | Sleezr |
 | --- | --- | --- |
-| Cost | Free | Trial then one-time license |
+| Cost | Free | One-time license from €9.99 |
 | Speed for rare edits | Fine | Optional |
 | Speed for daily switches | Slow / error-prone | Fast (named environments) |
 | Validation | You | Built-in checks before apply |

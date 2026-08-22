@@ -17,7 +17,7 @@ Common reasons teams leave or supplement SwitchHosts:
 
 | Alternative | Best for | Tradeoff |
 | --- | --- | --- |
-| **Sleezr** | Cross-platform + flush + backups | Paid after trial |
+| **Sleezr** | Cross-platform + flush + backups | Paid one-time license |
 | **PowerToys Hosts** | Windows-only free edits | No Mac/Linux |
 | **Terminal + scripts** | Full control | You own backups and flush |
 | **HostsMan** | Windows legacy users | Platform-limited |

@@ -17,7 +17,7 @@ You need a hosts file manager if you regularly:
 
 | Tool | Platforms | Cost | Maintained | Environments | Auto DNS flush | Auto backups |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Sleezr** | Win / Mac / Linux | One-time (€4.99 Solo) | Yes | Named environments | Yes | Yes |
+| **Sleezr** | Win / Mac / Linux | One-time (€9.99 Solo) | Yes | Named environments | Yes | Yes |
 | **SwitchHosts** | Win / Mac / Linux | Free (OSS) | Yes | Profiles | No (manual) | No |
 | **PowerToys Hosts** | Windows | Free | Yes | Basic | No | No |
 | **HostsMan** | Windows | Free / paid | Limited | Profiles | Manual | Varies |
@@ -28,7 +28,7 @@ You need a hosts file manager if you regularly:
 
 ### 1. Sleezr — best polished cross-platform default
 
-[Sleezr](https://www.sleezr.com) is a desktop hosts file manager focused on **named environments**, **apply + backup**, and **DNS flush**. One-time license after a 3-day trial.
+[Sleezr](https://www.sleezr.com) is a desktop hosts file manager focused on **named environments**, **apply + backup**, and **DNS flush**. One-time license.
 
 **Best for:** freelancers and teams who switch contexts daily and want fewer “hosts say new, browser says old” moments.
 

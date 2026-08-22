@@ -31,7 +31,7 @@ Last updated: 2026-08-12
 5. Flush DNS from the app so Safari/Chrome pick up the mapping.
 
 **Pros:** Environments, backups, DNS flush, search on large files.  
-**Cons:** Paid after a 3-day trial (one-time license).
+**Cons:** Paid one-time license (from €9.99).
 
 ## Option C — Other Mac tools
 

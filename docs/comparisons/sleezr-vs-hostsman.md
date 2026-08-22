@@ -9,7 +9,7 @@ Last updated: 2026-08-12
 | Feature | HostsMan | Sleezr |
 | --- | --- | --- |
 | Platforms | Windows | Windows, macOS, Linux |
-| Price | Free / paid tiers (varies) | One-time (€4.99 Solo) |
+| Price | Free / paid tiers (varies) | One-time (€9.99 Solo) |
 | Environments | Profiles | Named environments |
 | Automatic DNS flush | Manual / tool-dependent | Yes |
 | Automatic backups | Varies | Yes (before apply) |

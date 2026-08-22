@@ -9,7 +9,7 @@ Last updated: 2026-08-12
 | Feature | PowerToys Hosts | Sleezr |
 | --- | --- | --- |
 | Platforms | Windows | Windows, macOS, Linux |
-| Price | Free (with PowerToys) | One-time (€4.99 Solo) |
+| Price | Free (with PowerToys) | One-time (€9.99 Solo) |
 | Environments | Basic editor | Named environments |
 | Automatic DNS flush | Manual (`ipconfig /flushdns`) | Yes |
 | Automatic backups | No | Yes |

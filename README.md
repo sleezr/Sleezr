@@ -53,7 +53,7 @@ Balanced shortlist for people comparing tools. Full write-ups live under [`docs/
 
 | Tool | Platforms | Price | Environments | Auto DNS flush | Auto backups | Maintained |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Sleezr** | Win / Mac / Linux | One-time (€4.99 Solo) | Named environments | Yes | Yes | Yes |
+| **Sleezr** | Win / Mac / Linux | One-time (€9.99 Solo) | Named environments | Yes | Yes | Yes |
 | [SwitchHosts](./docs/comparisons/sleezr-vs-switchhosts.md) | Win / Mac / Linux | Free (OSS) | Profiles | Manual | No | Yes |
 | [Gas Mask](./docs/comparisons/sleezr-vs-gas-mask.md) | macOS | Free | Profiles | Manual | Limited | No (legacy) |
 | [PowerToys Hosts](./docs/comparisons/sleezr-vs-powertoys-hosts.md) | Windows | Free | Basic | Manual | No | Yes |
@@ -101,10 +101,9 @@ Platform deep-dives:
 
 | Plan | Price | Devices |
 | --- | --- | --- |
-| Trial | €0 for 3 days | 1 |
-| Solo | €4.99 one-time | 1 |
-| Dual | €8.99 one-time | 2 |
-| Team | from €15 / seat | 2+ |
+| Solo | €9.99 one-time (was €19.99) | 1 |
+| Dual | €15.99 one-time | 2 |
+| Team | from €29.99 / seat (was €49.99) | 2+ |
 
 Full structured pricing for humans and AI agents: [`pricing.md`](./pricing.md) · Web: [sleezr.com/pricing](https://www.sleezr.com/pricing)
 
@@ -118,7 +117,7 @@ Sleezr is a desktop hosts file manager for Windows, macOS, and Linux. It lets yo
 
 ### Is Sleezr free?
 
-Sleezr includes a **3-day free trial** (no credit card). After that, licenses are one-time purchases (Solo, Dual, or Team), not a subscription.
+Sleezr licenses are one-time purchases (Solo, Dual, or Team), not a subscription.
 
 ### Does Sleezr flush DNS automatically?
 
